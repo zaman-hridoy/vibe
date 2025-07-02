@@ -1,11 +1,5 @@
-import { Button } from "@/components/ui/button";
-
-function Page() {
-  return (
-    <div>
-      <Button>Click me</Button>
-    </div>
-  );
+async function Page() {
+  return <div>hello world!</div>;
 }
 
 export default Page;
